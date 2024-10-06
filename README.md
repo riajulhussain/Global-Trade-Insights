@@ -18,19 +18,19 @@ In 2022, the analysis of total high-tech exports across various countries reveal
 ## 2019-2022 Trends
 - Between 2019 and 2022, the top performers in merchandise trade and high-tech exports included Hong Kong, China and Singapore, which are considered ideal for tech collaborations. The analysis shows that China, Germany, the US and the Republic of Korea lead in high-tech exports, indicating their potential as key trading partners. Additionally, Vietnam and Malaysia are identified as emerging players in the tech export market, offering cost-effective manufacturing and market expansion opportunities. 
 - There is a notable decline in high-tech exports from Hong Kong and China, which may reflect economic adjustments or impacts from the COVID-19 pandemic. Mexico, Ireland and Vietnam show great promise, as they show strong, consistent import/export volume growth. The data also suggests that diversifying supply chains by partnering with stable economies like Germany, Singapore and Belgium could limit the risks associated with fluctuating market dynamics.
-- When it comes to potential prospects for the future, Djibouti, Nauru and Brunei Darussalam import/export volumes are exceedingly high compared to their peer. However, they have limited involvement in high-tech exports, insinuating that they are not involved in the technology sector. Data on high-tech exports was non-existent in some of these countries (Djibouti), therefore it is important that we keep tabs on these countries and conduct further research.
+- When it comes to potential prospects for the future, Djibouti, Nauru and Brunei Darussalam import/export volumes are exceedingly high compared to their peers. However, they have limited involvement in high-tech exports, insinuating that they are not involved in the technology sector. Data on high-tech exports was non-existent in some of these countries (Djibouti), therefore it is important that we keep tabs on these countries and conduct further research.
 
-## Visualizations
+## Visualisations
 This project includes a series of pivot tables and graphs designed to visualise key trends and insights in global trade and high-tech exports. Here are snapshots of a few graphs I had made:
 
 ![Screenshot 2024-10-06 053203](https://github.com/user-attachments/assets/ea7c3b2c-aeae-46f9-b2bf-99ed7b99bbb9)
 ![Screenshot 2024-10-06 053338](https://github.com/user-attachments/assets/caecd555-0e93-43cb-856f-b8465148213f)
 ![Screenshot 2024-10-06 053254](https://github.com/user-attachments/assets/9b77d83a-7822-430c-bf30-d4bfdda8c4cf)
 
-Thee Excel worksheet is attached to this repository if you wish to see all the tables, graphs and data.
+The Excel worksheet is attached to this repository if you wish to see all the tables, graphs and data.
 
 ## Summary
-In summary, the company should prioritise high-tech partnerships with established high-tech exporters like China, Germany, Singapore and Vietnam. If we can, we should also include Ireland and Mexico as they show consistent growth in import/export indexes, making them low risk options for long-term investment. We also need to undergo in-depth research in countries with strong trade activity but limited involvement in high-tech exports, such as Djibouti, Nauru and Brunei Darussalam, as these regions can be seen as gateways into new markets. Diversifying market strategy across multiple regions can reduce dependency on a single market and limit risks.
+In summary, the company should prioritise high-tech partnerships with established high-tech exporters like China, Germany, Singapore and Vietnam. Ireland and Mexico would also be valuable additions, given they show consistent growth in import/export indexes, making them low risk options for long-term investment. We also need to conduct in-depth research in countries with strong trade activity but limited involvement in high-tech exports, such as Djibouti, Nauru and Brunei Darussalam, as these regions may be seen as gateways into new markets. Diversifying market strategy across multiple regions can reduce dependency on a single market and limit risks.
 
 ## Future Directions
 As global trade continues to evolve, keeping an eye on economic trends, post-pandemic recoveries, and emerging technologies will be crucial for long-term success in the high-tech export sector. Potential areas for future research include:
